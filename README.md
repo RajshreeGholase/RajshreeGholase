@@ -25,7 +25,7 @@ Currently pursuing a degree in **Artificial Intelligence and Data Science**.
 
 - **Python Calculator:**  
   A simple calculator app built using Python, showcasing my programming fundamentals and problem-solving skills.  
-  *(Want to feature more projects here? Let me know!)*
+  
 
 ---
 
