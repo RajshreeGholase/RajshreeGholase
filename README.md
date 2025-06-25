@@ -15,7 +15,7 @@ Currently pursuing a degree in **Artificial Intelligence and Data Science**.
 
 ## 🧑‍💻 Skills
 
-- **Languages:** Python, SQL, HTML
+- **Languages:** Python, SQL, HTML,C
 - **Tools:** VS code,Anaconada,MySQL Workbench	
 - **Interests:** Data Science, AI, Coding, Tech Innovation
 
