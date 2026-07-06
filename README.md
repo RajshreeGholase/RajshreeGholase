@@ -62,12 +62,12 @@ Artificial Intelligence & Data Science Student
 
 
 <p align="center">
-  <img src="https://YOUR-PROJECT.vercel.app/api?username=RajshreeGholase&show_icons=true&theme=tokyonight" />
+  <img src="https://rdhole5250-5426.vercel.app/api?username=RajshreeGholase&show_icons=true&theme=tokyonight" />
 
 
   
 
-  <img src="https://YOUR-PROJECT.vercel.app/api/top-langs/?username=RajshreeGholase&layout=compact&theme=tokyonight" />
+  <img src="https://rdhole5250-5426.vercel.app/api/top-langs/?username=RajshreeGholase&layout=compact&theme=tokyonight" />
 </p>
 
 
