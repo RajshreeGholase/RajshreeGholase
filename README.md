@@ -68,4 +68,65 @@ Artificial Intelligence & Data Science Student
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=RajshreeGholase&theme=tokyonight)
+
+
+
+## 🚀 Featured Projects
+
+### 🏥 AI Medical Prediction System
+- Machine Learning-based disease prediction
+- Built with Django, Python, SQLite
+- Includes an AI chatbot for precautions
+
+### 📰 Fake & Real News Predictor
+- Classifies news articles as **Fake** or **Real** using Machine Learning
+- Built with Python, Scikit-learn, Pandas, and Streamlit
+- Uses Natural Language Processing (NLP) for text preprocessing and prediction
+
+### 🤖 AI Chatbot with Memory
+- Built using LangChain and OpenAI API
+- Stores conversation history
+- Streamlit interface
+
   
+
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=RajshreeGholase&label=Profile%20Views&color=ff69b4&style=flat)
+
+
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/rajshree-gholase-a6b5b92b4/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:gholaserajshree@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/RajshreeGholase">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+</a>
+</p>
+
+
+## 📈 Contribution Graph
+
+[![Rajshree's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RajshreeGholase&theme=tokyo-night)](https://github.com/RajshreeGholase)
+
+
+
+## ⚡ Fun Fact
+
+💡 I enjoy building AI applications that solve real-world problems and continuously learning new technologies.
+
+
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RajshreeGholase/RajshreeGholase/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
