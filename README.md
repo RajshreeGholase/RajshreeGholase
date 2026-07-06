@@ -1,46 +1,71 @@
-# 👋 Hi, I’m Rajshree (sau-cryto)!
+<h1 align="center">
+Hi 👋, I'm Rajshree Gholase
+</h1>
 
-🎓 **Student at Dr. J.J. Magdum College of Engineering**  
-Currently pursuing a degree in **Artificial Intelligence and Data Science**.
+<h3 align="center">
+Artificial Intelligence & Data Science Student
+</h3>
 
----
 
-## 🚀 About Me
+<table>
+<tr>
 
-- 🧠 Passionate about **Data Science**, **AI**, and everything coding!
-- 💡 Always excited to learn new things, especially in tech and programming.
-- 🛠️ Love to work on projects that challenge me and help me grow as a developer.
+<td width="55%">
 
----
+### 👩‍💻 About Me
 
-## 🧑‍💻 Skills
+🎓 B.Tech in Artificial Intelligence & Data Science
 
-- **Languages:** Python, SQL, HTML,C
-- **Tools:** VS code,Anaconada,MySQL Workbench	
-- **Interests:** Data Science, AI, Coding, Tech Innovation
+💻 Passionate about Python and AI Development
 
----
+🤖 Interested in Machine Learning & Computer Vision
 
-## 🌟 Projects
+🌱 Currently learning Machine Learning, FastAPI, and Generative AI
 
-- **Python Calculator:**  
-  A simple calculator app built using Python, showcasing my programming fundamentals and problem-solving skills.  
+🚀 Building AI Web Applications
+
+📚 Always learning new technologies
+
+</td>
+
+<td width="45%">
+
+<img src="girl.png" width="350"/>
+
+</td>
+
+</tr>
+</table>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0D2E3D&center=false&vCenter=false&width=435&lines=Python+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0D2E3D&center=false&vCenter=false&width=435&lines=Artificial+Intelligence+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0D2E3D&center=false&vCenter=false&width=435&lines=Machine+Learning+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0D2E3D&center=false&vCenter=false&width=435&lines=Building+AI+Applications)](https://git.io/typing-svg)
+
+<h2>💻 Tech Stack</h2>
+
+<img src="https://skillicons.dev/icons?i=python,django,streamlit,sqlite,github,vscode,pycharm,opencv,numpy,pandas,html,css" />
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
+
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-2CA5E0?style=for-the-badge)
+![Pillow](https://img.shields.io/badge/Pillow-000000?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+
+
+## 📊 GitHub Stats
+
+![Rajshree's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RajshreeGholase&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RajshreeGholase&layout=compact&theme=tokyonight)
+
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=RajshreeGholase&theme=tokyonight)
   
-
----
-
-## 🎯 Hobbies
-
-- Coding new ideas and bringing them to life
-- Learning about the latest in AI, data science, and software development
-
----
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-Rajshree%20Gholase-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajshree-gholase-a6b5b92b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](https://www.linkedin.com/in/rajshree-gholase-a6b5b92b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
----
-
-✨ Thank you for visiting my profile!  
-Let’s connect and learn together. 🚀
