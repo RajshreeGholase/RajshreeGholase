@@ -60,11 +60,11 @@ Artificial Intelligence & Data Science Student
 
 ## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://YOUR-PROJECT.vercel.app/api?username=RajshreeGholase&show_icons=true&theme=tokyonight" />
 
-![Rajshree's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RajshreeGholase&show_icons=true&theme=tokyonight)
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RajshreeGholase&layout=compact&theme=tokyonight)
+  <img src="https://YOUR-PROJECT.vercel.app/api/top-langs/?username=RajshreeGholase&layout=compact&theme=tokyonight" />
+</p>
 
 
 
