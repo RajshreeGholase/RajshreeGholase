@@ -114,12 +114,6 @@ Artificial Intelligence & Data Science Student
 
 
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=rajshreegholase&theme=radical&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
