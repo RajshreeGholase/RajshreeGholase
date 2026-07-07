@@ -90,26 +90,6 @@ Artificial Intelligence & Data Science Student
 
 
 
-
-<h2 align="center">🌐 Connect With Me</h2>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/rajshree-gholase-a6b5b92b4/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="mailto:gholaserajshree@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://github.com/RajshreeGholase">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
-</a>
-</p>
-
-
-
-
 ## 📈 Contribution Graph
 
 [![Rajshree's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RajshreeGholase&theme=tokyo-night)](https://github.com/RajshreeGholase)
@@ -130,4 +110,28 @@ Artificial Intelligence & Data Science Student
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/RajshreeGholase/RajshreeGholase/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rajshreegholase&theme=radical&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/rajshree-gholase-a6b5b92b4/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:gholaserajshree@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/RajshreeGholase">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+</a>
 </p>
