@@ -66,7 +66,7 @@ Artificial Intelligence & Data Science Student
 
 ## 🚀 Featured Projects
 
-### 🏥 AI Medical Prediction System
+### 🏥 AI Powered Disease Prediction Web App
 - Machine Learning-based disease prediction
 - Built with Django, Python, SQLite
 - Includes an AI chatbot for precautions
